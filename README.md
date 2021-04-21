@@ -10,5 +10,9 @@
 ###   Планирую изучить:    
 
 -------------
-+<img align="left" alt='React' width="30px" height="30px" src="https://iconape.com/wp-content/files/zk/93042/svg/react.svg"/>
-+<img align="left" alt='NodeJs' width="30px" height="30px" src="https://catethysis.ru/wp-content/uploads/2013/09/nodejslogo.png"/>
+<img align="left" alt='React' width="30px" height="30px" src="https://iconape.com/wp-content/files/zk/93042/svg/react.svg"/>
+<img align="center" alt='NodeJs' width="30px" height="30px" src="https://catethysis.ru/wp-content/uploads/2013/09/nodejslogo.png"/>
+
+### Статистика
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1antain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
