@@ -1,5 +1,4 @@
 ## **Hello world, меня зовут Сергей**
-### Я начинающий Fronted-developer, в данный момент выпускник Яндекс.Практикума, осваиваю новые технологии и ищу работу
 ### Для связи и предложений:
 [<img src="./img/iconTELEGRAM.svg">](https://t.me/p1antain)
 [<img src="./img/iconMAIL.svg">](mailto:lifeg1ance@yandex.ru)
